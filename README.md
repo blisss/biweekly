@@ -2,7 +2,7 @@ blisss 期刊
 -------------
 ohhhhhhhhhhhhhhhhhh -_-!!
 
-Q群 123625217 [http://jq.qq.com/?_wv=1027&k=XI0Hpb]
+Q群 [123625217](http://jq.qq.com/?_wv=1027&k=XI0Hpb)
 
 本刊主要讲述如何学习和使用SASS,以及WEB design中容易犯的错误和困惑.我们推荐满足以下条件的人阅读:
 
